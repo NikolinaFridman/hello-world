@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hello humans!
+
+I love the moon and ice-cream
